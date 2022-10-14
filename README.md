@@ -22,6 +22,8 @@ https://github.com/martinvelez/w32evol
 
 https://github.com/BlobbyBob/PtraceObfuscator
 
+https://github.com/WindowsCodeCamp/shellcode_obfuscator
+
 
 ## type-2 obfuscations (compile-time)
 

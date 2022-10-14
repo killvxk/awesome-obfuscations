@@ -14,6 +14,8 @@ https://github.com/nickcano/RelocBonus
 
 https://github.com/mike1k/perses
 
+https://github.com/SwenenzY/section-obfuscation
+
 
 ## type-2 obfuscations (compile-time)
 

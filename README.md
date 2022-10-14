@@ -24,6 +24,10 @@ https://github.com/BlobbyBob/PtraceObfuscator
 
 https://github.com/WindowsCodeCamp/shellcode_obfuscator
 
+https://github.com/dbaffier/Death
+
+https://github.com/CoolOppo/pescrambler
+
 
 ## type-2 obfuscations (compile-time)
 

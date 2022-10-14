@@ -13,3 +13,5 @@ https://github.com/ITHare/obf
 
 https://github.com/fritzone/obfy
 
+https://github.com/revsic/cpp-obfuscator
+

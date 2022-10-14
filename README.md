@@ -16,6 +16,12 @@ https://github.com/mike1k/perses
 
 https://github.com/SwenenzY/section-obfuscation
 
+https://github.com/nlog2n/x86obfuscator
+
+https://github.com/martinvelez/w32evol
+
+https://github.com/BlobbyBob/PtraceObfuscator
+
 
 ## type-2 obfuscations (compile-time)
 
@@ -32,6 +38,8 @@ https://github.com/yoavshah/DataObfuscator
 https://github.com/llxiaoyuan/oxorany
 
 
-## type-3 obfuscations (LLVM)
+## type-3 obfuscations (LLVM or gcc)
+
+https://github.com/xoreaxeaxeax/movfuscator
 
 https://github.com/KpwnZ/sllvm-obfuscator

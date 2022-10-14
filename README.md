@@ -25,6 +25,8 @@ https://github.com/andrivet/ADVobfuscator
 
 https://github.com/yoavshah/DataObfuscator
 
+https://github.com/llxiaoyuan/oxorany
+
 
 ## type-3 obfuscations (LLVM)
 

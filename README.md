@@ -23,4 +23,9 @@ https://github.com/revsic/cpp-obfuscator
 
 https://github.com/andrivet/ADVobfuscator
 
+https://github.com/yoavshah/DataObfuscator
+
+
 ## type-3 obfuscations (LLVM)
+
+https://github.com/KpwnZ/sllvm-obfuscator

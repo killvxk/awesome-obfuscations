@@ -16,3 +16,5 @@ https://github.com/fritzone/obfy
 
 https://github.com/revsic/cpp-obfuscator
 
+https://github.com/andrivet/ADVobfuscator
+

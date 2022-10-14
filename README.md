@@ -12,6 +12,8 @@ https://github.com/kgretzky/obfusion
 
 https://github.com/nickcano/RelocBonus
 
+https://github.com/mike1k/perses
+
 
 ## type-2 obfuscations (compile-time)
 

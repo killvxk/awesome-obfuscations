@@ -28,6 +28,7 @@ https://github.com/dbaffier/Death
 
 https://github.com/CoolOppo/pescrambler
 
+https://github.com/nelfo/Milfuscator
 
 ## type-2 obfuscations (compile-time)
 

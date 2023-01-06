@@ -30,6 +30,9 @@ https://github.com/CoolOppo/pescrambler
 
 https://github.com/nelfo/Milfuscator
 
+https://github.com/weak1337/Alcatraz
+
+
 ## type-2 obfuscations (compile-time)
 
 https://github.com/ITHare/obf

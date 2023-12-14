@@ -49,6 +49,10 @@ https://github.com/yoavshah/DataObfuscator
 
 https://github.com/llxiaoyuan/oxorany
 
+https://github.com/ThatLing/limba
+
+https://github.com/Android1337/crycall
+
 
 ## type-3 obfuscations (LLVM or gcc)
 

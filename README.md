@@ -32,6 +32,8 @@ https://github.com/nelfo/Milfuscator
 
 https://github.com/weak1337/Alcatraz
 
+https://github.com/es3n1n/obfuscator
+
 
 ## type-2 obfuscations (compile-time)
 

@@ -42,6 +42,8 @@ https://github.com/jonomango/chum
 
 https://github.com/25077667/VMPilot
 
+https://github.com/killvxk/vmprotect-3.5.1-ok
+
 
 ## type-2 obfuscations (compile-time)
 

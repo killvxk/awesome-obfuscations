@@ -34,6 +34,10 @@ https://github.com/weak1337/Alcatraz
 
 https://github.com/es3n1n/obfuscator
 
+https://github.com/notpidgey/EagleVM
+
+https://github.com/felix-rs/guardian-rs
+
 
 ## type-2 obfuscations (compile-time)
 

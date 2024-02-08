@@ -38,6 +38,8 @@ https://github.com/notpidgey/EagleVM
 
 https://github.com/felix-rs/guardian-rs
 
+https://github.com/jonomango/chum
+
 
 ## type-2 obfuscations (compile-time)
 

@@ -40,6 +40,8 @@ https://github.com/felix-rs/guardian-rs
 
 https://github.com/jonomango/chum
 
+https://github.com/25077667/VMPilot
+
 
 ## type-2 obfuscations (compile-time)
 

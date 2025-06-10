@@ -63,6 +63,11 @@ https://github.com/ThatLing/limba
 
 https://github.com/Android1337/crycall
 
+https://github.com/DosX-dev/obfus.h
+
+https://github.com/x86byte/Obfusk8
+
+https://github.com/ac3ss0r/obfusheader.h
 
 ## type-3 obfuscations (LLVM or gcc)
 

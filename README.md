@@ -69,6 +69,9 @@ https://github.com/x86byte/Obfusk8
 
 https://github.com/ac3ss0r/obfusheader.h
 
+https://github.com/EvilBytecode/Ebyte-Go-Morpher
+
+
 ## type-3 obfuscations (LLVM or gcc)
 
 https://github.com/xoreaxeaxeax/movfuscator
